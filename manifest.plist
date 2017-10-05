@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.102:19043/downloads/ios/iSmart.ipa</string>
+					<string>http://192.168.1.102:19027/downloads/ios/iSmart.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://192.168.1.102:19043/downloads/ios/icon.png</string>
+					<string>http://192.168.1.102:19027/downloads/ios/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.1.102:19043/downloads/ios/icon.png</string>
+					<string>http://192.168.1.102:19027/downloads/ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>吉林移动传输管线应用</string>
+				<string>iSmart</string>
 			</dict>
 		</dict>
 	</array>
