@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>
+					<string>http://111.26.17.73:17003/ServerMobile/downloads/mres.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				</dict>
 			</array>
 			<key>metadata</key>
-			<dict>http://111.26.17.73:17003/ServerMobile/downloads/mres.ipa</string>
+			<dict>
 				<key>bundle-identifier</key>
 				<string>cn.com.gxlu.ismart</string>
 				<key>bundle-version</key>
